@@ -1,1 +1,0 @@
-import{_ as e,o as s,c as t,a as c}from"./index-D11utc5h.js";const o={},n=c("h1",null,"This is an test page",-1),a=[n];function _(r,i){return s(),t("div",null,a)}const d=e(o,[["render",_]]);export{d as default};
